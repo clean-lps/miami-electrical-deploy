@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://clean-lps.github.io/miami-electrical-deploy/sitemap.xml

@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/miami-electrical-deploy/sw.js', { scope: '/miami-electrical-deploy/' })})}
